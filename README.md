@@ -1,8 +1,6 @@
 # Wordpress Like Button Plugin
 
-![](https://img.shields.io/badge/V%201.0.0-BETA-blue.svg)
-
-[![](https://img.shields.io/badge/code%20style-wordpress-9cf.svg)](https://codex.wordpress.org/WordPress_Coding_Standards)
+![](https://img.shields.io/badge/V%201.0.0-BETA-blue.svg) . [![](https://img.shields.io/badge/code%20style-wordpress-9cf.svg)](https://codex.wordpress.org/WordPress_Coding_Standards)
 
 Twitter heart button for Wordpress articles with Vue.js
 
