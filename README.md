@@ -4,7 +4,7 @@
 
 Twitter heart button for Wordpress articles with Vue.js
 
-![](https://i.hizliresim.com/Gmj8yy.gif)
+![](https://raw.githubusercontent.com/frkyldrm/Wordpress-like-button-plugin-with-Vue.js/master/faruklikepul_button.gif)
   
 # Installation 
 
